@@ -7,7 +7,7 @@ var users =[];
 
 app.use('/', express.static(__dirname + '/www'));
 
-server.listen(3000);
+server.listen(8080);
 
 io.sockets.on('connection', function(socket) {
     //new user login
