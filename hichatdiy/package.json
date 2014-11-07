@@ -1,0 +1,14 @@
+{
+    "name": "hichat",
+    "description": "online chat room exercise by xiaohu",
+    "version": "0.4.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "4.9.x",
+        "socket.io": "0.9.x"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
+}
